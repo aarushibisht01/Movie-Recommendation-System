@@ -1,0 +1,56 @@
+movieId,title,genres
+1,The Dark Knight,Action
+2,Mad Max: Fury Road,Action
+3,Die Hard,Action
+4,John Wick,Action
+5,Avengers: Endgame,Action
+6,Indiana Jones: Raiders of the Lost Ark,Adventure
+7,The Lord of the Rings: The Fellowship of the Ring,Adventure
+8,Pirates of the Caribbean: The Curse of the Black Pearl,Adventure
+9,The Secret Life of Walter Mitty,Adventure
+10,Jumanji: Welcome to the Jungle,Adventure
+11,The Hangover,Comedy
+12,Superbad,Comedy
+13,Groundhog Day,Comedy
+14,Dumb and Dumber,Comedy
+15,21 Jump Street,Comedy
+16,Shawshank Redemption,Drama
+17,Forrest Gump,Drama
+18,The Pursuit of Happiness,Drama
+19,A Beautiful Mind,Drama
+20,The Godfather,Drama
+21,The Notebook,Romance
+22,Pride and Prejudice,Romance
+23,La La Land,Romance
+24,Titanic,Romance
+25,Eternal Sunshine of the Spotless Mind,Romance
+26,The Shining,Horror
+27,Get Out,Horror
+28,A Nightmare on Elm Street,Horror
+29,The Conjuring,Horror
+30,Hereditary,Horror
+31,Inception,Sci-Fi
+32,Blade Runner 2049,Sci-Fi
+33,Interstellar,Sci-Fi
+34,The Matrix,Sci-Fi
+35,Star Wars: A New Hope,Sci-Fi
+36,Gone Girl,Thriller
+37,Se7en,Thriller
+38,The Sixth Sense,Thriller
+39,Shutter Island,Thriller
+40,Prisoners,Thriller
+41,Toy Story 3,Animated
+42,Spider-Man: Into the Spider-Verse,Animated
+43,Shrek,Animated
+44,Frozen,Animated
+45,Up,Animated
+46,Gully Boy,Hindi
+47,3 Idiots,Hindi
+48,Dilwale Dulhania Le Jayenge,Hindi
+49,Kabhi Khushi Kabhie Gham,Hindi
+50,Tumbbad,Hindi
+51,Baahubali: The Beginning,South Indian
+52,Kantara,South Indian
+53,Vikram,South Indian
+54,Kaalidas,South Indian
+55,Super Deluxe,South Indian
